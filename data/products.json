@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "price": 1999,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+    "description": "Premium wireless headphones with noise cancellation"
+  },
+
+  {
+    "id": 2,
+    "title": "Running Shoes",
+    "price": 2499,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "description": "Comfortable running shoes for daily workouts"
+  },
+
+  {
+    "id": 3,
+    "title": "Smart Watch",
+    "price": 3999,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+    "description": "Track fitness and notifications easily"
+  },
+
+  {
+    "id": 4,
+    "title": "Backpack",
+    "price": 1299,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1581605405669-fcdf81165afa",
+    "description": "Stylish backpack for college and travel"
+  },
+
+  {
+    "id": 5,
+    "title": "Laptop",
+    "price": 55999,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+    "description": "Powerful laptop for coding and gaming"
+  },
+
+  {
+    "id": 6,
+    "title": "T-Shirt",
+    "price": 799,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "description": "Comfortable cotton t-shirt"
+  }
+]
